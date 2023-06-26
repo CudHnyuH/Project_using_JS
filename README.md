@@ -1,1 +1,1 @@
-# Create Basic Project Using JavaScript.
+# Create Basic Projects Using JavaScript.
